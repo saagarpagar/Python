@@ -22,11 +22,3 @@ Here’s what you’ll find inside the script:
 9. **Importing Modules** – Using built-in modules like `math` and `datetime`.
 
 ---
-
-## 🛠 How to Run
-1. Make sure you have **Python 3.x** installed.
-2. Download or clone this repository.
-3. Open your terminal or command prompt.
-4. Run:
-```bash
-python core_python_overview.py
