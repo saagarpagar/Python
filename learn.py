@@ -5,7 +5,6 @@ Description:
     Each section includes simple but meaningful examples, so I (or anyone)
     can quickly recall Python basics.
 '''
-
 # ------------------------------------------
 # 1️⃣ VARIABLES & DATA TYPES
 # ------------------------------------------
