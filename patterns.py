@@ -42,7 +42,6 @@ def floyd(n):
             num += 1
         print()
 
-
 def hollow_square(n):
     for i in range(n):
         for j in range(n):
@@ -76,6 +75,6 @@ if __name__ == "__main__":
 
     print("\nFloyd’s Triangle:")
     floyd(n)
-
+    
     print("\nHollow Square:")
     hollow_square(n)
