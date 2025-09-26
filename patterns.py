@@ -10,6 +10,7 @@ def right_triangle(n):
         print("* " * i)
 
 
+
 def inverted_triangle(n):
     for i in range(n, 0, -1):
         print("* " * i)
