@@ -3,7 +3,7 @@
 
 Hey there! 👋  
 This is a small Python script I made to practice and understand **core Python concepts**.  
-It’s a single file that goes through variables, data types, conditions, loops, functions, lists, sets, tuples, dictionaries, and importing modules — with **simple but meaningful examples**.  
+It’s a single file that goes through variables, data types, conditions, loops, functions, lists, sets, tuples, dictionaries, and importing modules — with **simple but meaningful examples**. 
 
 I created this as part of my learning journey so I can always come back, revise quickly, and also share it with others who are starting from scratch.
 
